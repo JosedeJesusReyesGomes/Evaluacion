@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SAVVY</title>
+    <link rel="stylesheet" href="diseño.css">
+</head>
+<body >
+    
+    <h1>SAVVY</h1>
+
+    
+    <a href="" class="boton_1">¿Que somos?</a>
+
+     <h2>
+         <p>Es una aplicacion la cual sirve para tus estudios xd</p>
+     </h2>
+
+
+</body>
+
+</html>
+
+body {
+    background-color: #ffdd90;
+    background-image: url("fondo.png");
+  }
+
+ h1{
+color: antiquewhite; 
+font-size: 150px;
+text-align: center;
+  }
+
+  
+  .boton_1{
+      
+    text-decoration: none;
+    padding: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: helvetica;
+    font-weight: 300;
+    font-size: 25px;
+    font-style: italic;
+    color: #006505;
+    background-color: #82b085;
+    border-radius: 15px;
+    border: 3px double #006505;
+  }
+  .boton_1:hover{
+    opacity: 0.6;
+    text-decoration: none;
+    
+        
+  }
+  h2{
+    color: antiquewhite; 
+    font-size: 30px;
+    text-align: center;
+      }
+
+  
